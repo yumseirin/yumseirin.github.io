@@ -1,3 +1,3 @@
-# seirin.top  (yumseirin.github.io)
+# seirin.top (yumseirin.github.io)
 
-Seirin»ùÓÚHexoµÄBlog
+SeirinåŸºäºHexoçš„Blog

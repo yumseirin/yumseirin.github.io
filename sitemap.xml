@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://seirin.top/music/index.html</loc>
+    
+    <lastmod>2020-04-12T15:12:49.136Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://seirin.top/link/index.html</loc>
+    
+    <lastmod>2020-04-11T17:34:04.601Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://seirin.top/categories/index.html</loc>
+    
+    <lastmod>2020-04-10T18:42:28.475Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://seirin.top/tags/index.html</loc>
+    
+    <lastmod>2020-04-10T18:38:57.085Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://seirin.top/2020/04/02/hello-world/</loc>
     
     <lastmod>2020-04-03T10:12:29.877Z</lastmod>
